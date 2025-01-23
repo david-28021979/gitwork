@@ -1,0 +1,134 @@
+Health State,Power State,Connection State,Name,IP Address,Identifier,Model,Type,Chassis Name,Slot Name,Managed State
+Normal,Online,Connected,SBICDCENCL03-CMC1,172.16.40.78,BTNZ992,PowerEdge M1000e,Chassis,,,Managed
+Normal,Online,Connected,SBICDCENCL03-SWC2,172.16.40.85,BTNY992,PowerEdge M I/O Aggregator bridge,Network Switch,SBICDCENCL03-CMC1,PowerEdge M I/O Aggregator,Monitored
+Normal,Online,Connected,SBICDCENCL03-SWC1,172.16.40.84,BTNX992,PowerEdge M I/O Aggregator bridge,Network Switch,SBICDCENCL03-CMC1,PowerEdge M I/O Aggregator,Monitored
+Normal,Offline,Connected,ENCL03-1-SCCPPBLRDBO1038,172.16.40.86,BTJW992,PowerEdge M630,Compute,SBICDCENCL03-CMC1,ENCL03-1-SCCPPBLRDBO1038,Managed
+Unknown,Unknown,Disconnected,SBICDCENCL11,172.16.41.26,HFM6BS2,PowerEdge M1000e,Chassis,,,Managed
+Normal,Offline,Connected,ENCL11-2-SCCPPBLROVS06,172.16.41.35,HHD79V2,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL11-12-SCCPPBLRESX232,172.16.41.45,3W77BW2,PowerEdge M640,Compute,,,Managed
+Normal,Offline,Connected,ENCL03-4-SCCPPBLRAPP355,172.16.40.89,4C3V8T2,PowerEdge M640,Compute,SBICDCENCL03-CMC1,sccppblrapp355,Managed
+Normal,Online,Connected,ENCL11-10-SCCPPBLRESX231,172.16.41.43,BVN60T2,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL11-16-SCCPPBLRESX233,172.16.41.49,BVM60T2,PowerEdge M640,Compute,,,Managed
+Normal,Offline,Connected,ENCL03-3-SCCPPBLRWEB357,172.16.40.88,8704F13,PowerEdge M640,Compute,SBICDCENCL03-CMC1,sccppblrweb357,Managed
+Normal,Offline,Connected,ENCL05-05-SCCPPBLRAPP354,172.16.40.138,4C3W8T2,PowerEdge M640,Compute,SBICDCENCL05-CMC1,sccppblrapp354,Managed
+Normal,Offline,Connected,ENCL11-7-SCCPPBLROVS07,172.16.41.40,442Q8T2,PowerEdge M640,Compute,,,Managed
+Unknown,Unknown,Disconnected,SBICDCENCL05-CMC1,172.16.40.126,BXK0B92,PowerEdge M1000e,Chassis,,,Managed
+Normal,Online,Connected,SBICDCENCL11-SWA2,172.16.41.29,HFN5BS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL11,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL11-SWC1,172.16.41.32,HFM5BS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL11,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL05-SWA2,172.16.40.129,BXHZ992,MXL 10/40GE switch/router,Network Switch,SBICDCENCL05-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL05-SWA1,172.16.40.128,BXJT992,MXL 10/40GE switch/router,Network Switch,SBICDCENCL05-CMC1,MXL 10/40GbE,Monitored
+Unknown,Unknown,Disconnected,SBICDCENCL03-SWA1,172.16.40.80,BTPW992,MXL 10/40GE switch/router,Network Switch,SBICDCENCL03-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL11-SWA1,172.16.41.28,HFLCBS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL11,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL11-SWC2,172.16.41.33,HFMDBS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL11,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL05-SWC1,172.16.40.132,BXG0B92,PowerEdge M I/O Aggregator bridge,Network Switch,SBICDCENCL05-CMC1,PowerEdge M I/O Aggregator,Monitored
+Normal,Online,Connected,SBICDCENCL03-SWA2,172.16.40.81,BTPV992,MXL 10/40GE switch/router,Network Switch,SBICDCENCL03-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL05-SWC2,172.16.40.133,BXGX992,PowerEdge M I/O Aggregator bridge,Network Switch,SBICDCENCL05-CMC1,PowerEdge M I/O Aggregator,Monitored
+Normal,Offline,Connected,ENCL05-02-SCCPPBLRAPP348,172.16.40.135,BXPW992,PowerEdge M630,Compute,SBICDCENCL05-CMC1,sccppblrapp348,Managed
+Normal,Offline,Connected,ENCL05-09-SCCPPBLRAPP351,172.16.40.142,BXP1B92,PowerEdge M630,Compute,SBICDCENCL05-CMC1,sccppblrapp351,Managed
+Normal,Offline,Connected,ENCL14-16-SCCPPBLRDBO1039,172.16.41.73,BXNV992,PowerEdge M630,Compute,SBICDCENCL14-CMC1,ENCL14-16-SCCPPBLRDBO1039,Managed
+Normal,Offline,Connected,ENCL03-9-SCCPPBLRAPP356,172.16.40.94,BTMT992,PowerEdge M630,Compute,SBICDCENCL03-CMC1,sccppblrapp356s,Managed
+Normal,Offline,Connected,ENCL05-06-SCCPPBLRAPP070,172.16.40.139,JDZFBS2,PowerEdge M640,Compute,SBICDCENCL05-CMC1,sccppblrapp070,Managed
+Normal,Offline,Connected,ENCL05-04-SCCPPBLRAPP062,172.16.40.137,4C5S8T2,PowerEdge M640,Compute,SBICDCENCL05-CMC1,sccppblrapp062,Managed
+Normal,Offline,Connected,ENCL03-2-SCCPPBLRAPP030,172.16.40.87,BTJ2B92,PowerEdge M630,Compute,SBICDCENCL03-CMC1,sccppblrapp030p,Managed
+Normal,Offline,Connected,ENCL03-6-SCCPPBLRWEB358,172.16.40.91,86Z5F13,PowerEdge M640,Compute,SBICDCENCL03-CMC1,sccppblrweb358,Managed
+Normal,Online,Connected,ENCL05-03-SCCPPBLRDBO145,172.16.40.136,JMS2TF2,PowerEdge M640,Compute,SBICDCENCL05-CMC1,sccppblrdbo145,Managed
+Normal,Online,Connected,ENCL11-6,172.16.41.39,JMS1TR2,PowerEdge M640,Compute,,,Managed
+Normal,Offline,Connected,ENCL03-5-SCCPPBLRDBO379,172.16.40.90,JMS2T92,PowerEdge M640,Compute,SBICDCENCL03-CMC1,sccppblrdbo379,Managed
+Normal,Online,Connected,SBICDCENCL14-CMC1,172.16.41.50,HFLFBS2,PowerEdge M1000e,Chassis,,,Managed
+Normal,Online,Connected,ENCL14-9-SCCPPBLRDBO047,172.16.41.66,BVM90T2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,sccppblrdbo047,Managed
+Normal,Offline,Connected,ENCL14-11-SCCPPBLRDBO070,172.16.41.68,JMS1YC2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,sccppblrdbo070,Managed
+Normal,Online,Connected,ENCL14-10-SCCPPBLRDBO1078,172.16.41.67,JMS20J2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,ENCL14-10-SCCPPBLRDBO1078,Managed
+Unknown,Unknown,Disconnected,ENCL28-2-SCCPPBLRESX350,172.16.41.70,BVN50T2,PowerEdge M640,Compute,SBICDCENCL28-CMC1,sccppblresx350.sbicmpc.internal,Managed
+Normal,Online,Connected,SBICDCENCL14-SWA1,172.16.41.52,HFMBBS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL14-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL14-SWC2,172.16.41.57,HFMFBS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL14-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL14-SWC1,172.16.41.56,HFMCBS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL14-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL14-SWA2,172.16.41.53,HFM7BS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL14-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,ENCL14-12,172.16.41.69,JMS1TF2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,ENCL14-12,Managed
+Normal,Offline,Connected,ENCL14-1-SCCPPBLRDBO380,172.16.41.58,JMS2DK2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,sccppblrdbo380,Managed
+Normal,Online,Connected,ENCL11-5,172.16.41.38,JMS2QM2,PowerEdge M640,Compute,,,Managed
+Normal,Offline,Connected,ENCL05-15-SCCPPBLRAPP059,172.16.40.148,JQH7BW2,PowerEdge M640,Compute,SBICDCENCL05-CMC1,sccppblrapp059,Managed
+Normal,Offline,Connected,ENCL03-15-SCCPPBLRAPP058,172.16.40.100,JQH7HY2,PowerEdge M640,Compute,SBICDCENCL03-CMC1,sccppblrapp058,Managed
+Normal,Offline,Connected,ENCL05-01-SCCPPBLRDBO252,172.16.40.134,JMS29R2,PowerEdge M640,Compute,SBICDCENCL05-CMC1,sccppblrdbo252,Managed
+Normal,Offline,Connected,ENCL14-08-SCCPPBLRDBO253,172.16.41.65,JMS30J2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,sccppblrdbo253,Managed
+Normal,Online,Connected,ENCL11-3-SCCPPBLRESX265,172.16.41.36,3W6GBW2,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL11-4-SCCPPBLRESX266,172.16.41.37,8749F13,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL11-9-SCCPPBLRESX272,172.16.41.42,FWSFBW2,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL11-8-SCCPPBLRESX271,172.16.41.41,8758F13,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL11-13-SCCPPBLRESX273,172.16.41.46,JQH79V2,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL03-7,172.16.40.92; 172.16.41.47,441S8T2,PowerEdge M640,Compute,SBICDCENCL03-CMC1,ENCL03-7,Managed
+Normal,Online,Connected,ENCL11-11,172.16.40.93; 172.16.41.44,JMS21H2,PowerEdge M640,Compute,SBICDCENCL03-CMC1,ENCL03-8,Managed
+Normal,Online,Connected,ENCL11-1-SCCPPBLRESX276,172.16.41.34,JMS3H82,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL11-15-SCCPPBLRESX279,172.16.41.48,JMS31H2,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL14-15-SCCPPBLRDBO048,172.16.41.72,JP5YSR2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,sccppblrdbo048,Managed
+Normal,Offline,Connected,ENCL14-4-SCCPUBLRDBO050,172.16.41.61,JMS1VG2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,sccpublrdbo050,Managed
+Normal,Online,Connected,ENCL47-11-SCCPUBLROVS11,172.16.34.87,BSXB0T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,ENCL47-11-SCCPUBLROVS11,Managed
+Normal,Online,Connected,ENCL47-1-SCCPUBLROVS12,172.16.34.77,BVN70T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,ENCL47-1-SCCPUBLROVS12,Managed
+Normal,Offline,Connected,ENCL14-06-SCCPPBLRDBO1002,172.16.41.63,JMS2V72,PowerEdge M640,Compute,SBICDCENCL14-CMC1,sccppblrapp030,Managed
+Normal,Offline,Connected,ENCL14-14-SCCPPBLRDBO1003,172.16.41.71,BVMD0T2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,sccppblrapp059,Managed
+Normal,Offline,Connected,ENCL47-09,172.16.34.85,JF57BS2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,ENCL47-09,Managed
+Normal,Online,Connected,ENCL47-4-SCCPPBLROVS32,172.16.34.80,4C8P8T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,ENCL47-4-SCCPPBLROVS32,Managed
+Normal,Online,Connected,ENCL47-05,172.16.34.81,442P8T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,SCCPTBLRESX399.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL47-SCCPTBLRESX336,172.16.34.79,3W78BW2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,SCCPTBLRESX336.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL47-SCCPTBLRESX337,172.16.34.86,BVPB0T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,SCCPTBLRESX337.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL47-SCCPTBLRESX347,172.16.34.92,BVMC0T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,SCCPTBLRESX347.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL47-15,172.16.34.91,4C9S8T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,SCCPTBLRESX70.SBICMPC.INTERNAL,Managed
+Normal,Online,Connected,ENCL47-6-SCCPUBLRDBO392,172.16.34.82,JP5XTK2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,sccpublrdbo392,Managed
+Normal,Online,Connected,SBICDCENCL45-CMC1,172.16.34.208,C1XQB03,PowerEdge M1000e,Chassis,,,Managed
+Normal,Online,Connected,ENCL45-07-SCCPUBLRAPP052,172.16.34.222,JF59BS2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,SCCPUBLRAPP052,Managed
+Normal,Online,Connected,ENCL45-09-SCCPTBLRESX322,172.16.34.224,BVM80T2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,sccptblresx67.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL45-16,172.16.34.231,JMS2LG2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,sccppblrdbo380,Managed
+Normal,Online,Connected,ENCL45-14-SCCPTBLRESX403,172.16.34.229,4C5W8T2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,SCCPTBLRESX403.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL45-13-SCCPTBLRESX402,172.16.34.228,JP5T7N2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,SCCPTBLRESX402.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL45-15-SCCPTBLRESX404,172.16.34.230,BVND0T2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,SCCPTBLRESX404.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL45-12-SCCPTBLRESX323,172.16.34.227,JP5WFL2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,sccppblresx96.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL45-06-SCCPTBLRESX319,172.16.34.221,JMS39R2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,sccptblresx95.sbicmpc.internal,Managed
+Normal,Online,Connected,ENCL45-11-SCCPTBLRESX321,172.16.34.226,BVN90T2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,sccppblresx93,Managed
+Normal,Online,Connected,ENCL45-05,172.16.34.220,JMS1T92,PowerEdge M640,Compute,SBICDCENCL45-CMC1,ENCL45-05,Managed
+Normal,Online,Connected,ENCL45-2-SCCPTBLRESX317,172.16.34.217,3W6FBW2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,sccptblresx103,Managed
+Normal,Online,Connected,ENCL45-3-SCCPTBLRESX318,172.16.34.218,JP5V9M2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,dhcp-215.osprov.eds.com,Managed
+Normal,Online,Connected,ENCL45-10-SCCPTBLRESX320,172.16.34.225,BVP60T2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,sccptblresx66.sbicmpc.internal,Managed
+Unknown,Unknown,Disconnected,SBICDCENCL47-CMC1,172.16.34.69,4C0V8T2,PowerEdge M1000e,Chassis,,,Managed
+Normal,Online,Connected,ENCL47-02-SCCPUBLRAPP053,172.16.34.78,JF5BBS2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,SCCPUBLRAPP053,Managed
+Normal,Offline,Connected,ENCL47-13,172.16.34.89,BSY40T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,ENCL47-13,Managed
+Normal,Offline,Connected,ENCL47-12,172.16.34.88,4C4V8T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,ENCL47-12,Managed
+Normal,Online,Connected,SBICDCENCL28-CMC1,172.16.34.93,632P8T2,PowerEdge M1000e,Chassis,,,Managed
+Normal,Offline,Connected,ENCL28-08,172.16.34.108,4C5V8T2,PowerEdge M640,Compute,SBICDCENCL28-CMC1,sccppblrdbo379,Managed
+Normal,Offline,Connected,ENCL28-05,172.16.34.105,442N8T2,PowerEdge M640,Compute,SBICDCENCL28-CMC1,ENCL28-05,Managed
+Normal,Offline,Connected,ENCL28-06,172.16.34.106,JF58BS2,PowerEdge M640,Compute,SBICDCENCL28-CMC1,ENCL28-06,Managed
+Unknown,Unknown,Disconnected,ENCL28-10,172.16.34.110,JMS3CD2,PowerEdge M640,Compute,,,Managed
+Normal,Online,Connected,ENCL47-3-SCCPTBLRESX324,172.16.34.219,JMS2VG2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,SCCPTBLRESX71.SBICMPC.INTERNAL,Managed
+Normal,Online,Connected,ENCL45-1-SCCPTBLRESX316,172.16.34.216,3W6BBW2,PowerEdge M640,Compute,SBICDCENCL45-CMC1,sccptblresx121,Managed
+Normal,Offline,Connected,ENCL14-5-SCCPPBLRDBO997,172.16.41.62,JMS2TR2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,ENCL14-5-SCCPPBLRDBO997,Managed
+Normal,Online,Connected,ENCL03-13,172.16.40.98,JMS2CD2,PowerEdge M640,Compute,SBICDCENCL03-CMC1,ENCL03-13,Managed
+Normal,Online,Connected,ENCL03-14,172.16.40.99,JMS2H82,PowerEdge M640,Compute,SBICDCENCL03-CMC1,ENCL03-14,Managed
+Normal,Online,Connected,172.16.41.194,172.16.41.194,53BGRZ2,PowerEdge MX7000,Chassis,,,Managed
+Normal,Online,Connected,iDRAC-53GCRZ2,172.16.41.202,53GCRZ2,PowerEdge MX740c,Compute,172.16.41.194,Sled-1,Proxied
+Normal,Online,Connected,iDRAC-7WLWJF3,172.16.41.203,7WLWJF3,PowerEdge MX740c,Compute,172.16.41.194,Sled-2-SCCPTBLRESX502,Proxied
+Normal,Online,Connected,iDRAC-9WLWJF3,172.16.41.204,9WLWJF3,PowerEdge MX740c,Compute,172.16.41.194,Sled-3-SCCPTBLRESX476,Proxied
+Normal,Online,Connected,iDRAC-6WLWJF3,172.16.41.205,6WLWJF3,PowerEdge MX740c,Compute,172.16.41.194,Sled-4-SCCPTBLRESX507,Proxied
+Normal,Online,Connected,iDRAC-8WLWJF3,172.16.41.206,8WLWJF3,PowerEdge MX740c,Compute,172.16.41.194,Sled-5-SCCPTBLRESX508,Proxied
+Normal,Online,Connected,172.16.41.196,172.16.41.196,538JRZ2,MX9116n Fabric Engine,Network IOM,172.16.41.194,IOM-A1,Proxied
+Normal,Online,Connected,172.16.41.197,172.16.41.197,53DKRZ2,MX9116n Fabric Engine,Network IOM,172.16.41.194,IOM-A2,Proxied
+Normal,Online,Connected,SBICDCENCL44-CMC1,172.16.67.200,HF98BS2,PowerEdge M1000e,Chassis,,,Managed
+Normal,Online,Connected,ENCL44-09,172.16.67.216,JMS2YC2,PowerEdge M640,Compute,SBICDCENCL44-CMC1,ENCL44-09,Managed
+Unknown,Unknown,Disconnected,ENCL44-12,172.16.67.219,3W6HBW2,PowerEdge M640,Compute,,,Managed
+Unknown,Unknown,Disconnected,ENCL44-03-Test,172.16.67.210,4C7V8T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,SCCPTBLRESX398.sbicmpc.internal,Managed
+Unknown,Unknown,Disconnected,ENCL28-1-SCCPPBLRESX349,172.16.67.218,BVM70T2,PowerEdge M640,Compute,SBICDCENCL28-CMC1,sccppblresx349.sbicmpc.internal,Managed
+Unknown,Unknown,Disconnected,ENCL44-14,172.16.67.221,FWR8BW2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,sccppblrdbo252,Managed
+Normal,Offline,Connected,ENCL44-16,172.16.67.223,4C7P8T2,PowerEdge M640,Compute,SBICDCENCL44-CMC1,ENCL44-16,Managed
+Unknown,Unknown,Disconnected,ENCL44-15,172.16.41.70,JF0BBS2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,ENCL44-15,Managed
+Normal,Online,Connected,SBICDCENCL44-SWA1,172.16.67.202,HFF7BS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL44-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL44-SWC1,172.16.67.206,HFJ9BS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL44-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL44-SWA2,172.16.67.203,HFFDBS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL44-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,SBICDCENCL44-SWC2,172.16.67.207,HFJ7BS2,MXL 10/40GE switch/router,Network Switch,SBICDCENCL44-CMC1,MXL 10/40GbE,Monitored
+Normal,Online,Connected,idrac-HRQ8NS3,172.16.41.207,HRQ8NS3,PowerEdge MX750c,Compute,172.16.41.194,Sled-6,Managed
+Normal,Online,Connected,idrac-JRQ8NS3,172.16.41.208,JRQ8NS3,PowerEdge MX750c,Compute,172.16.41.194,Sled-7,Managed
+Normal,Online,Connected,idrac-1SQ8NS3,172.16.35.29,1SQ8NS3,PowerEdge MX750c,Compute,172.16.41.194,Sled-8,Managed
+Normal,Offline,Connected,ENCL14-3,172.16.41.60,4C6W8T2,PowerEdge M640,Compute,SBICDCENCL14-CMC1,ENCL14-3,Managed
+Normal,Offline,Connected,ENCL14-2,172.16.41.59,JMS1V72,PowerEdge M640,Compute,SBICDCENCL14-CMC1,ENCL14-2,Managed
+Normal,Offline,Connected,ENCL47-14,172.16.34.90,BVN80T2,PowerEdge M640,Compute,SBICDCENCL47-CMC1,sccppblrdbo253,Managed
+Normal,Offline,Connected,ENCL14-14,172.16.34.84,JP5ZFL2,PowerEdge M640,Compute,SBICDCENCL44-CMC1,ENCL44-14,Managed
+Normal,Online,Connected,ENCL14-07-SCCPPBLRDBO1077,172.16.41.64,JMS2B92,PowerEdge M640,Compute,SBICDCENCL14-CMC1,sccppblrdbo070,Managed
+Normal,Online,Connected,idrac-6BS3NZ3,172.16.66.230,6BS3NZ3,PowerEdge R750,Compute,,,Managed
+Normal,Online,Connected,idrac-9W33XT3,172.31.88.26,9W33XT3,PowerEdge R750,Compute,,,Managed
+Normal,Online,Connected,idrac-7W33XT3,172.31.88.27,7W33XT3,PowerEdge R750,Compute,,,Managed
